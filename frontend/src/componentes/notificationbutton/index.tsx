@@ -1,7 +1,7 @@
 
-import icon from '../../Asserts/img/notification-icon.svg'
+import icon from '../../Asserts/img/notification-icon.svg';
 
-import './styles.css'
+import './styles.css';
 
 function notificationbutton() {
   return (
@@ -11,4 +11,4 @@ function notificationbutton() {
   )
 }
 
-export default notificationbutton
+export default notificationbutton;
